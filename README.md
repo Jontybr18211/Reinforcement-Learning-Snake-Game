@@ -2,7 +2,9 @@
 
 This project trains an AI agent to play the classic Snake game using **Reinforcement Learning**.
 
-
+<p align="center">
+  <img src="Demo%20Learning.gif" alt="Project Demo" width="600">
+</p>
 
 ## 🤖 How It Works
 
