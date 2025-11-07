@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Python logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+model/
+
+# Fonts
+*.ttf
+
+# PyTorch / ML
+*.pt
+*.pth
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
